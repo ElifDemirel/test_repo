@@ -4,7 +4,7 @@ public class HelloWorld {
 
     public static void main(String[] args) {    
         
-        System.out.println(displayMsg() + "\ndate & time: " + displayDate());     
+        System.out.println(displayMsg() + "\ndate & time:cde " + displayDate());     
         
     }
     public static String displayDate() {
